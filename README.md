@@ -13,6 +13,8 @@ Platform.
 6. Seamless Database Update: Allows users to efficiently update database records with a user-friendly interface and built-in data validation, ensuring data accuracy and integrity while providing real-time feedback on update status.
 7. Feedback System with Notion: Streamlines user feedback collection by integrating with Notion API, allowing users to submit feedback and optional screenshots directly to a designated Notion page, facilitating efficient issue tracking and web app improvement.
 
+![https://github.com/RanArino/Coop-Project/blob/main/docs/KeyFeatures.png]
+
 ---
 
 **Technologies Used:**
@@ -26,14 +28,17 @@ Platform.
 * **Additional API Services:**
     - Notion API
     - Google Drive/Sheet/Map API
+ 
+![https://github.com/RanArino/Coop-Project/blob/main/docs/TechnologyUsed.png]
   
 ---
 
 **Architecture Overview:**
 
-This web application follows a modular architecture consisting of a Dash/Plotly frontend, a Python backend, and a Cloud SQL database on GCP. User authentication is handled through Firebase and GCP's Identity Platform. Key functionalities include automated pricing calculation, dynamic data entry with real-time updates, data verification and export to Google Sheets, integration with Google Maps API for location services, interactive dashboards for data exploration, seamless database updates, and a feedback system integrated with Notion.
-For a detailed visual representation of the system's workflow and interactions, refer to the diagrams provided in the docs/architectures/ folder.
+For a detailed visual representation of the system's workflow and interactions, refer to the diagrams provided in the docs/architectures/ folder or visit the following link.
 
+
+---
 
 **Contact:**
 - Emails:
