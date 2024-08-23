@@ -1,6 +1,6 @@
 # Project Title: Co-op Project - Pricing Calculator App
 
-This project is a Python-based web application that I developed at Drone Cleaning Company that I joined as a Co-op Innternship placement. 
+This project is a Python-based web application that I developed at [Drone Cleaning Company](https://www.linkedin.com/company/dronecleaningcompany/posts/?feedView=all) that I joined as a Co-op Innternship placement. 
 
 Note: I got the permission to post the following system architecture and web app application.
 
