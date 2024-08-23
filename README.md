@@ -2,6 +2,8 @@
 
 This project is a Python-based web application that I developed at Drone Cleaning Company that I joined as a Co-op Innternship placement. 
 
+Note: I got the permission to post the following system architecture and web app application.
+
 **Key Features:**
 
 1. Secure User Authentication: Restricts access to authorized users via a robust login system using Firebase and GCP Identity
@@ -12,6 +14,7 @@ Platform.[^1]
 5. Interactive Data Exploration & Dashboards: Provides intuitive dashboards on the homepage and a dedicated dashboard page, enabling users to select attributes, and input queries for data retrieval and analysis, monitor cleaning project completion, facilitate quick review for each cleaning project.[^5]
 6. Seamless Database Update: Allows users to efficiently update database records with a user-friendly interface and built-in data validation, ensuring data accuracy and integrity while providing real-time feedback on update status.[^6]
 7. Feedback System with Notion: Streamlines user feedback collection by integrating with Notion API, allowing users to submit feedback and optional screenshots directly to a designated Notion page, facilitating efficient issue tracking and web app improvement.[^7]
+8. AI-Powered Source Code Exploration: Leverages Google Gemini LLM and a FAISS vector database, providing Retrieval Augmented Generation(RAG) system through a user-friendly chat interface to understand web application source codes.[^8]
 
 ![Key Features Visualization](https://github.com/RanArino/Coop-Project/blob/main/docs/KeyFeatures.png)
 
@@ -53,3 +56,4 @@ For a detailed visual representation of the system's workflow and interactions, 
 [^5]: The interactive dashboards provide users with powerful tools for data exploration and analysis. [Dashboard.png](https://github.com/RanArino/Coop-Project/blob/main/docs/architectures/Dashboard.png)
 [^6]: Seamless database updates streamline data management and ensure data integrity. [DBUpdate.png](https://github.com/RanArino/Coop-Project/blob/main/docs/architectures/DBUpdate.png)
 [^7]: The Notion API integration facilitates efficient feedback collection and issue tracking. [Feedback.png](https://github.com/RanArino/Coop-Project/blob/main/docs/architectures/Feedback.png)
+[^8]: The RAG system led by Google Gemini and FIASS vector DB boosts the understanding of source codes. [CodingRAG.png](https://github.com/RanArino/Coop-Project/blob/main/docs/architectures/CodingRAG.png)
